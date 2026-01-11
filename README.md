@@ -7,3 +7,6 @@
 #### Step-7: myApp > views.py > 
 #### Step-8: myApp > urls.py > path >
 #### Step-9: myProject > urls.py > path > include >> myApp.urls  
+
+
+[Video File](https://drive.google.com/file/d/1gFAjPrm4aSQj4_m-ILJ-kDB4n7Eagjjh/view?usp=sharing)
